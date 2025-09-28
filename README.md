@@ -2,7 +2,7 @@ Thanks for letting me know you're using Supabase! I'll tailor the README to refl
 
 # ChatFlow
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Harpreet-win/ChatFlow?style=social)](https://github.com/Harpreet-win/ChatFlow) [![GitHub license](https://img.shields.io/github/license/Harpreet-win/ChatFlow)](https://github.com/Harpreet-win/ChatFlow)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Harpreet-win/ChatFlow?style=social)](https://github.com/Harpreet-win/ChatFlow) [![GitHub license](https://img.shields.io/github/license/Harpreet-win/ChatFlow/licence.txt)](https://github.com/Harpreet-win/ChatFlow)
 
 ChatFlow is a modern, open-source chat application designed for seamless real-time communication. Built with Supabase for backend services, it offers a scalable and secure solution for messaging, group chats, and media sharing. Whether you're creating a personal chat app or integrating chat functionality into your platform, ChatFlow provides a flexible and developer-friendly foundation.
 
